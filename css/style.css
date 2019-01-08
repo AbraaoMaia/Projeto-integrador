@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|PT+Serif');
 
 body{
-font-family: 'Inconsolata', monospace;
+font-family: 'PT Serif', serif;;
+
 }
 
 .junbotron{
@@ -9,9 +10,9 @@ font-family: 'Inconsolata', monospace;
 }
 
 .fundo--color{
-	background-color: #00c9f2 !important;
+	background-color: #00b9f2 !important;
 }
 
-.{
-	background-color: #00c9a2;
+.float{
+	float: center;
 }
